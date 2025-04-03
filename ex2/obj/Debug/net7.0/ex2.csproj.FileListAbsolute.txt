@@ -1,0 +1,14 @@
+C:\Users\Igor55009746\Documents\lista-ex\lista\ex2\bin\Debug\net7.0\ex2.exe
+C:\Users\Igor55009746\Documents\lista-ex\lista\ex2\bin\Debug\net7.0\ex2.deps.json
+C:\Users\Igor55009746\Documents\lista-ex\lista\ex2\bin\Debug\net7.0\ex2.runtimeconfig.json
+C:\Users\Igor55009746\Documents\lista-ex\lista\ex2\bin\Debug\net7.0\ex2.dll
+C:\Users\Igor55009746\Documents\lista-ex\lista\ex2\bin\Debug\net7.0\ex2.pdb
+C:\Users\Igor55009746\Documents\lista-ex\lista\ex2\obj\Debug\net7.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor55009746\Documents\lista-ex\lista\ex2\obj\Debug\net7.0\ex2.AssemblyInfoInputs.cache
+C:\Users\Igor55009746\Documents\lista-ex\lista\ex2\obj\Debug\net7.0\ex2.AssemblyInfo.cs
+C:\Users\Igor55009746\Documents\lista-ex\lista\ex2\obj\Debug\net7.0\ex2.csproj.CoreCompileInputs.cache
+C:\Users\Igor55009746\Documents\lista-ex\lista\ex2\obj\Debug\net7.0\ex2.dll
+C:\Users\Igor55009746\Documents\lista-ex\lista\ex2\obj\Debug\net7.0\refint\ex2.dll
+C:\Users\Igor55009746\Documents\lista-ex\lista\ex2\obj\Debug\net7.0\ex2.pdb
+C:\Users\Igor55009746\Documents\lista-ex\lista\ex2\obj\Debug\net7.0\ex2.genruntimeconfig.cache
+C:\Users\Igor55009746\Documents\lista-ex\lista\ex2\obj\Debug\net7.0\ref\ex2.dll
